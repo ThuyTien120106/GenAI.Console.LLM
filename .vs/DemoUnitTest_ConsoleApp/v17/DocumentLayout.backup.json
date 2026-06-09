@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984D96-1967-429E-9077-07C4FA95C606}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|f:\\fpt_uni\\demounittest_consoleapp\\demounittest_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984D96-1967-429E-9077-07C4FA95C606}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984D96-1967-429E-9077-07C4FA95C606}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|f:\\fpt_uni\\demounittest_consoleapp\\demounittest_consoleapp\\demounittest_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C984D96-1967-429E-9077-07C4FA95C606}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\demounittest_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E1F164-A7A3-4555-8799-0736E4CEDD08}|UnitTest\\UnitTest.csproj|f:\\fpt_uni\\demounittest_consoleapp\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15E1F164-A7A3-4555-8799-0736E4CEDD08}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E1F164-A7A3-4555-8799-0736E4CEDD08}|UnitTest\\UnitTest.csproj|f:\\fpt_uni\\demounittest_consoleapp\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E1F164-A7A3-4555-8799-0736E4CEDD08}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984D96-1967-429E-9077-07C4FA95C606}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|f:\\fpt_uni\\demounittest_consoleapp\\demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984D96-1967-429E-9077-07C4FA95C606}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest",
+              "DocumentMoniker": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
+              "ToolTip": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj",
+              "RelativeToolTip": "UnitTest\\UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T02:58:47.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T02:50:40.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "ToolTip": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Calculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:41:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoUnitTest_ConsoleApp.csproj",
+              "DocumentMoniker": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "ToolTip": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "RelativeToolTip": "DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T01:35:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Program.cs",
+              "ToolTip": "F:\\FPT_UNI\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:34:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
